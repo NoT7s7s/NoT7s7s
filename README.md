@@ -22,11 +22,11 @@ And there are more site coming soon 😃</br>
                                   
  <a href="https://www.twitter.com/xL77s_">
          <img src="https://media.discordapp.net/attachments/731420248254840913/971709690633388063/Twitter-Icon-removebg-preview.png"
-         width="80px" height="80px">
+         width="85px" height="85px">
  
  <a href="https://www.tiktok.com/@xL77s">
          <img src="https://media.discordapp.net/attachments/731420248254840913/971709398923755570/unknown.png"
-         width="80px" height="80px">
+         width="85px" height="85px">
 
    <a href="https://www.twitch.tv/Not7s7s">
          <img src="https://media.discordapp.net/attachments/731420248254840913/971710785405452318/unknown.png?width=676&height=676"
