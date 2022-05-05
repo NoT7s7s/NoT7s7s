@@ -19,6 +19,6 @@ And there are more site coming soon 😃</br>
  <a href="https://www.instagram.com/xL77s_">
          <img src="https://media.discordapp.net/attachments/731420248254840913/971709168580960286/unknown.png?width=676&height=676"
          width=75px" height="75px">
- <a href="https://www.instagram.com/xL77s_">
-         <img src="https://media.discordapp.net/attachments/731420248254840913/971709168580960286/unknown.png?width=676&height=676"
+ <a href="https://www.twitter.com/xL77s_">
+         <img src="https://cdn.discordapp.com/attachments/731420248254840913/971709690633388063/Twitter-Icon-removebg-preview.png"
          width=75px" height="75px">
