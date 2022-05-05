@@ -14,7 +14,8 @@ My therd site is: MangaMab.xyz and its for reading mangas and comics</br>
 And there are more site coming soon 😃</br>
 
 
-# Hi there 👋
+# My social media accounts 👋
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/257891437650116608)](https://discord.com/users/257891437650116608)
+ <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150px" height="150px">
