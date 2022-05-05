@@ -16,6 +16,6 @@ And there are more site coming soon 😃</br>
 
 # My social media accounts 👋
 
- <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-         width=150px" height="150px">
+ <a href="https://www.instagram.com/xL77s_">
+         <img src="https://media.discordapp.net/attachments/731420248254840913/971709168580960286/unknown.png?width=676&height=676"
+         width=75px" height="75px">
