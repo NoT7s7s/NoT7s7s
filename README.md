@@ -21,7 +21,7 @@ And there are more site coming soon 😃</br>
          width=75px" height="75px">
                                   
  <a href="https://www.twitter.com/xL77s_">
-         <img src="https://media.discordapp.net/attachments/731420248254840913/971709398923755570/unknown.png"
+         <img src="https://media.discordapp.net/attachments/731420248254840913/971709690633388063/Twitter-Icon-removebg-preview.png"
          width=85px" height="85px">
  
  <a href="https://www.tiktok.com/@xL77s">
