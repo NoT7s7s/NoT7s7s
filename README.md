@@ -1,7 +1,7 @@
 ### Hey there, I'm Hussain 👋🏼
 
 
-# Let me introduce myself for you guys
+# Let me introduce myself for you guys 😉
 
 I'm Hussain 17 Years old from kingdom of bahrain</br>
 
@@ -16,7 +16,7 @@ My therd site is: MangaMab.xyz and its for reading mangas and comics</br>
 And there are more site coming soon 😃</br>
 
 
-# My social media accounts 👋
+# My social media accounts 🌐
 
  <a href="https://www.instagram.com/xL77s_">
          <img src="https://media.discordapp.net/attachments/731420248254840913/971709168580960286/unknown.png?width=676&height=676"
