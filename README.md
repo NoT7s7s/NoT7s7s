@@ -33,5 +33,5 @@ And there are more site coming soon 😃</br>
    <a href="https://www.twitch.tv/Not7s7s">
          <img src="https://media.discordapp.net/attachments/731420248254840913/971710785405452318/unknown.png?width=676&height=676"
          width="75px" height="75px">
-    
+    </br>
  [![Discord Presence](https://lanyard.cnrad.dev/api/257891437650116608)](https://discord.com/users/257891437650116608)
