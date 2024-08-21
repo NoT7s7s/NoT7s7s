@@ -1,15 +1,15 @@
 ### Hey there, I'm Hussain 👋🏼
 
 
-# Let me introduce myself for you guys 😉
+# Let me introduce myself to you guys 😉
 
-I'm Hussain 20 Years old from Kingdom of Bahrain</br>
+I'm Hussain 20 Years old from the Kingdom of Bahrain</br>
 </br>
-My first site is: iHussain.xyz and its portfolio </br>
+My first site is iHussain.xyz and its portfolio </br>
 </br>
-My second site is: AnimeMab.com and its for showing anime episodes and movies with high resolution</br>
+My second site is AnimeMab.com and it shows anime episodes and movies with high resolution</br>
 </br>
-And there are more site coming soon 😃</br>
+And more sites are coming soon 😃</br>
 
 
 # My social media accounts 🌐
