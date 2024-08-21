@@ -3,15 +3,11 @@
 
 # Let me introduce myself for you guys 😉
 
-I'm Hussain 17 Years old from kingdom of bahrain</br>
-
-I have 2 websites and the 3rd is coming soon</br>
+I'm Hussain 20 Years old from Kingdom of Bahrain</br>
 </br>
-My first site is : iHussain.xyz and its portiflio </br>
+My first site is: iHussain.xyz and its portfolio </br>
 </br>
 My second site is: AnimeMab.com and its for showing anime episodes and movies with high resolution</br>
-</br>
-My third site is: MangaMab.xyz and its for reading mangas and comics</br>
 </br>
 And there are more site coming soon 😃</br>
 
